@@ -1,0 +1,4 @@
+plan.txt
+venv/
+models/CNN_models/vgg_models
+data/features.pkl
